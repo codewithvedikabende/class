@@ -3,4 +3,3 @@ if age>18:
     print("you are eligible")
 else:
     print("your ere not eligible")
-    
